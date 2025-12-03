@@ -1,0 +1,92 @@
+[00:00:00.761] Server  LOG      ✓ Ready in 488ms
+[00:00:11.015] Server  LOG      ○ Compiling / ...
+[00:00:12.033] Server  WARN     ⚠ Cross origin request detected from 192.168.100.11 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[00:00:12.057] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:47.578] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:16.822] Browser LOG     Simulando envío a Telegram: 
+🛍️ *NUEVO PEDIDO LUMIÈRE*
+━━━━━━━━━━━━━━━━━━
+👗 *Vestido:* Vestido Gala Noir
+💎 *Color:* Negro
+📏 *Talla:* S
+💵 *Precio:* 280 Bs.
+━━━━━━━━━━━━━━━━━━
+👤 *Nombre:* jaunsos
+📱 *Teléfono:* 3243432
+📍 *Departamento:* La Paz
+🏠 *Dirección:* yacuiba
+━━━━━━━━━━━━━━━━━━
+    
+[00:10:34.853] Server  LOG      ✓ Compiled in 158ms
+[00:10:47.648] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:16.712] Server  LOG      ✓ Compiled in 126ms
+[00:13:16.309] Server  LOG      ✓ Compiled in 83ms
+[00:13:26.500] Server  LOG      ✓ Compiled in 130ms
+[00:13:32.854] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:32.975] Browser WARN    Image with src "https://static.dafiti.com.co/p/mp-1475-7806362-1-product.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:14:56.085] Server  LOG      ✓ Compiled in 66ms
+[00:15:14.205] Server  LOG      ✓ Compiled in 86ms
+[00:16:00.587] Server  LOG      ✓ Compiled in 104ms
+[00:17:31.058] Server  LOG      ✓ Compiled in 65ms
+[00:17:44.757] Server  LOG      ✓ Compiled in 74ms
+[00:20:31.739] Server  LOG      ✓ Compiled in 108ms
+[00:22:14.303] Server  LOG      ✓ Compiled in 76ms
+[00:23:17.846] Server  LOG      ✓ Compiled in 132ms
+[00:24:50.135] Server  LOG      ✓ Compiled in 130ms
+[00:26:04.252] Server  LOG      ✓ Compiled in 70ms
+[00:27:25.374] Server  LOG      ✓ Compiled in 131ms
+[00:27:40.780] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:39:02.044] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:41:39.936] Browser ERROR   ./app/contacto/page.tsx:152:592
+Parsing ecmascript source code failed
+  150 |                     <MapPin className="w-8 h-8 mx-auto mb-2 opacity-50" />
+  151 |                     <span className="text-sm uppercase tracking-widest font-medium">Mapa de Ubicación</span>
+> 152 |                     <p className="text-xs mt-2 opacity-70">(<div class="embed-map-responsive"><div class="embed-map-container"><iframe class="embed-map-frame" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&height=400&hl=en&q=santa%20cruz%20de%20la%20cierra&t=k&z=14&ie=UTF8&iwloc=B&output=embed"></iframe><a href="https://sprunkiretake.net" style="font-size:2px!important;color:gray!important;position:absolute;bottom:0;left:0;z-index:1;max-height:1px;overflow:hidden">sprunki retake</a></div><style>.embed-map-responsive{position:relative;text-align:right;width:100%;height:0;padding-bottom:66.66666666666666%;}.embed-map-container{overflow:hidden;background:none!important;width:100%;height:100%;position:absolute;top:0;left:0;}.embed-map-frame{width:100%!important;height:100%!important;position:absolute;top:0;left:0;}</style></div>)</p>
+      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ^
+  153 |                   </div>
+  154 |                 </div>
+  155 |               </div>
+
+Expected '</', got ':'
+[01:15:30.755] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:15:30.879] Browser WARN    Image with src "https://static.dafiti.com.co/p/mp-1475-7806362-1-product.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:15:47.321] Browser LOG     Simulando envío a Telegram: 
+🛍️ *NUEVO PEDIDO LUMIÈRE*
+━━━━━━━━━━━━━━━━━━
+👗 *Vestido:* Vestido Gala Noir
+💎 *Color:* Negro
+📏 *Talla:* M
+💵 *Precio:* 280 Bs.
+━━━━━━━━━━━━━━━━━━
+👤 *Nombre:* pedro
+📱 *Teléfono:* 9394422
+📍 *Departamento:* Beni
+🏠 *Dirección:* yacuiba
+
+━━━━━━━━━━━━━━━━━━
+    
+[01:15:48.379] Browser WARN    Image with src "http://192.168.100.11:3000/qr-pago.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:22:13.932] Server  LOG      ✓ Compiled in 53ms
+[01:22:17.760] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:22:17.880] Browser WARN    Image with src "https://static.dafiti.com.co/p/mp-1475-7806362-1-product.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:22:27.423] Browser LOG     Simulando envío a Telegram: 
+🛍️ *NUEVO PEDIDO LUMIÈRE*
+━━━━━━━━━━━━━━━━━━
+👗 *Vestido:* Vestido Gala Noir
+💎 *Color:* Negro
+📏 *Talla:* M
+💵 *Precio:* 160 Bs.
+━━━━━━━━━━━━━━━━━━
+👤 *Nombre:* kmkm
+📱 *Teléfono:* 58484
+📍 *Departamento:* La Paz
+🏠 *Dirección:* ihih
+━━━━━━━━━━━━━━━━━━
+    
+[01:22:28.540] Browser WARN    Image with src "http://192.168.100.11:3000/qr-pago.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:23:05.267] Server  LOG      ✓ Compiled in 71ms
+[01:23:28.074] Server  LOG      ✓ Compiled in 57ms
